@@ -1,7 +1,7 @@
 # PyPackager
 
 Простой упаковщик Python-программ в `.exe` файлы.  
-Интерфейс сделан таим специально :3
+Интерфейс сделан таким специально :3
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/99b91732-f274-4c6a-beed-a7bbadb455fc" width="300">
