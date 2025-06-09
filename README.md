@@ -8,7 +8,7 @@
 </p>
 
 
-[![Скачать последнюю версию](https://img.shields.io/badge/Скачать-EXE-00FF99?style=for-the-badge&logo=windows)](https://github.com/Zubakamaraka/PyPackager/releases/download/v0.1/PyPackager.exe)
+[![Скачать последнюю версию](https://img.shields.io/badge/Download-EXE-00FF99?style=for-the-badge&logo=windows)](https://github.com/Zubakamaraka/PyPackager/releases/download/v0.1/PyPackager.exe)
 
 ## Возможности
 - Поддержка Drag & Drop для .py и .ico
