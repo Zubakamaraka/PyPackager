@@ -43,7 +43,7 @@ The interface is specially designed like this:3
 - Choose output folder for `.exe`
 - Built-in build log
 - Temporary file cleanup
-- Language toggle: 🇷🇺 / 🇬🇧
+- Language toggle: RU / EN
 - No-console `.exe` build
 
 ### How to Use
